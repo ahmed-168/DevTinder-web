@@ -6,7 +6,7 @@ function App() {
           <a className="btn btn-ghost text-xl">👨‍💻DevTinder</a>
         </div>
         <div className="flex gap-2">
-          <div className="dropdown dropdown-end">
+          <div className="dropdown dropdown-end mx-5">
             <div
               tabIndex={0}
               role="button"
